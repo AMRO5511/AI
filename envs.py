@@ -5,7 +5,7 @@ import cv2
 import gym
 import numpy as np
 from gym.spaces.box import Box
-from gym import wrappers
+from gym import wrappers # WWW
 
 
 # Taken from https://github.com/openai/universe-starter-agent
